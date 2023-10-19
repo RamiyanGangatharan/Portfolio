@@ -1,0 +1,16 @@
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\bin\Debug\net6.0-windows\Assignment1_SimpleApp.exe
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\bin\Debug\net6.0-windows\Assignment1_SimpleApp.deps.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\bin\Debug\net6.0-windows\Assignment1_SimpleApp.runtimeconfig.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\bin\Debug\net6.0-windows\Assignment1_SimpleApp.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\bin\Debug\net6.0-windows\Assignment1_SimpleApp.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\Assignment1_SimpleApp.csproj.GenerateResource.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\Assignment1_SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\Assignment1_SimpleApp.AssemblyInfoInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\Assignment1_SimpleApp.AssemblyInfo.cs
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\Assignment1_SimpleApp.csproj.CoreCompileInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\Assignment1_SimpleApp.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\refint\Assignment1_SimpleApp.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\Assignment1_SimpleApp.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\Assignment1_SimpleApp.genruntimeconfig.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\ref\Assignment1_SimpleApp.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment1_SimpleApp\obj\Debug\net6.0-windows\Assignment1_SimpleApp.Window.resources
