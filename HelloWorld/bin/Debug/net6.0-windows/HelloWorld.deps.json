@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HelloWorld/1.0.0": {
+        "dependencies": {
+          "Invoice": "1.0.0"
+        },
+        "runtime": {
+          "HelloWorld.dll": {}
+        }
+      },
+      "Invoice/1.0.0": {
+        "runtime": {
+          "Invoice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Invoice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
