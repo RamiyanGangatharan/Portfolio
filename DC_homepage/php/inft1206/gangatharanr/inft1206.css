@@ -1,0 +1,414 @@
+body
+{
+    height: auto;
+    width: auto;
+    background-color: white;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover
+{
+    color: red;
+    border: 2px;
+}
+
+table, th, td 
+{
+border: 1px solid black;
+padding: 2px;
+Font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.director
+{
+    text-align: center;
+    height: 20px;
+    width: 100px;
+    font-size: 24pt;
+    border-width: 2px;
+    border:2px;
+    border-color:black; 
+}
+
+.example
+{
+    padding-left: 60px;
+}
+
+.title
+{
+    text-align: center;
+    color: black;
+    Font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.website_desc
+{
+    text-align: center;
+    padding: 20px;
+    Font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.section_paragraph
+{
+    text-align: justify;
+    padding: 20px;
+    Font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.selectortype
+{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.smallside
+{
+    width: 20%;
+    height: fit-content;
+    
+}
+
+.bigside
+{
+    width: 80%;
+    height: fit-content;
+    margin-left: 100px;
+}
+
+.unstyled
+{
+    text-decoration: underline;
+    color: blue;
+}
+.unstyled:hover
+{
+    text-decoration: underline;
+    color: purple;
+}
+
+.logo
+{
+    padding-left: 80px;
+}
+
+.button-container 
+  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .fake-button 
+  {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid lightgray;
+    background-color: lightgray;
+    width: fit-content;
+    height: 50px;
+    padding: 10px 25px;
+    margin: 10px 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    transition: all 0.3s ease;
+  }
+  
+  
+  
+  .fake-button:hover 
+  {
+    background-color: blue;
+    border-color: blue;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+
+.Learnmore_button
+{
+    border-style: solid;
+    border-width: 2px;
+    background-color: lightgrey;
+    display: inline-block;
+    font-size: 12px;
+    Font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.Learnmore_button:hover
+{
+    border-style: solid;
+    border-width: 2px;
+    background-color: blue;
+    display: inline-block;
+
+    box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.3);
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+    Font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.TableTag
+{
+    text-align: center;
+}
+
+.BookTab
+{
+    text-align: center;
+}
+
+.SelectorTable
+{
+    align-items: center;
+    border: 1px solid black;
+    padding: 2px;
+    Font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+
+#solid
+{
+    border: solid 2px;
+}
+
+.BookDesc
+{
+    display: inline-block;
+    border:solid;
+    border-width: 2px; 
+    text-align: justify; 
+    width: fit-content; 
+    padding: 10px; 
+    padding: 10px; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Timetable
+{
+    display: inline-block;
+    border:solid;
+    border-width: 2px; 
+    text-align: center; 
+    width: fit-content;  
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.ScheduleDesc
+{
+    display: inline-block;
+    border:solid;
+    border-width: 2px; 
+    text-align: justify; 
+    width: fit-content; 
+    padding: 10px; 
+    margin-bottom: 20px;
+}
+
+.section_border
+{
+    display: inline-block;
+    border:solid;
+    border-width: 2px; 
+    text-align: justify; 
+    width: fit-content; 
+    margin: 10px; 
+    padding: 10px; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Timecell
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Table_of_contents 
+{
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    padding: 5px 5px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
+    background-color: #f5f5f5;
+    margin-bottom: 10px;
+}
+  
+  
+
+.contents_TOC_heading
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+.element_tags
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+}
+
+.paragraph_tag_example
+{
+ text-align: center;
+ color: red;
+}
+
+.termtest1_h3
+{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20pt;
+    display: inline;
+}
+
+.termtest1_code
+{
+    font-family: 'consolas', 'Courier New', Courier, monospace;
+    font-size: 14pt;
+}
+
+.termtest1_images
+{
+    height: 50px;
+    width: 50px;
+}
+
+
+
+/*
+The layout for the rest of this css is a modified version from:
+http://www.maxdesign.com.au/articles/process/
+
+Students are encouraged to read this article.  Great explanation of some sound design concepts with attractive examples provided.
+
+You can cut and paste this at the bottom of your existing css file, and when used in conjunction with the css_layout.html file you unzipped, can wrap your pages into this site.
+*/
+#container
+{
+	margin: 0 auto;
+	width: 1200px;
+	background: white;
+}
+
+#header
+{
+	background: lightgrey;
+}
+
+#header h1
+{ 
+	margin: 0;
+	display: inline;
+}
+
+#header img
+{ 
+	vertical-align: middle;
+	width: 150px;
+    height: 150px;
+}
+
+#sites
+{
+	display: inline-block;
+	/*float: left;*/
+	width: 100%;
+	/*width: 1200px;*/
+    Font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	background-color: black;
+}
+
+#sites ul
+{
+	margin: 0;
+	padding: 0;
+    background-color: black;
+}
+
+#sites ul li
+{
+	list-style-type: none;
+	display: inline-block;
+}
+
+#sites li a
+{
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color: white;
+	text-decoration: none;
+	border-right: 1px solid white;
+    border-left: 1px solid white;
+}
+
+#sites li a:hover 
+{ 
+	background-color: lightgrey; 
+	color: black;
+}
+
+#navigation
+{
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	padding: 10px 10px;
+	margin: 10px 20px 10px 0;
+    text-align: justify;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
+    border: thin grey;
+}
+
+#navigation h3 { margin: 0; }
+
+#content-container
+{
+	/*float: left;*/
+	/*width: 1200px;*/
+	background-color: whitesmoke;
+	background-image: url(../images/styles/background.png);
+	/* go up a directory, and then work down into images/styles directory */
+	background-repeat: repeat-y;
+}
+
+#content
+{
+	display: inline-block;
+	/*float: right;*/
+	width: 860px;
+	padding: 20px 0;
+	margin: 0 0 0 30px;
+	/*display: inline;*/
+    background-color: whitesmoke;
+}
+
+#content h2 { margin: 0; }
+
+#footer
+{
+	clear: both;
+	background: lightgrey;
+	text-align: center;
+	padding: 5px;
+	height: 1%;
+}
+
+#footer img
+{
+	vertical-align: middle;
+}
