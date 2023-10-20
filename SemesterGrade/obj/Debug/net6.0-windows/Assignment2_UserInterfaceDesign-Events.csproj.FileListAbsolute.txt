@@ -1,0 +1,16 @@
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\bin\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.exe
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\bin\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.deps.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\bin\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.runtimeconfig.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\bin\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\bin\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\Assignment2_UserInterfaceDesign.Window.resources
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.csproj.GenerateResource.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.AssemblyInfoInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.AssemblyInfo.cs
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.csproj.CoreCompileInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\refint\Assignment2_UserInterfaceDesign-Events.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\Assignment2_UserInterfaceDesign-Events.genruntimeconfig.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment2_UserInterfaceDesign\obj\Debug\net6.0-windows\ref\Assignment2_UserInterfaceDesign-Events.dll
