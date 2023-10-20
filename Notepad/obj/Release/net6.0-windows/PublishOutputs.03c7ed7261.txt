@@ -1,0 +1,5 @@
+C:\Users\Ramiyan Gangatharan\Desktop\Published Software\Notepad.exe
+C:\Users\Ramiyan Gangatharan\Desktop\Published Software\Notepad.dll
+C:\Users\Ramiyan Gangatharan\Desktop\Published Software\Notepad.deps.json
+C:\Users\Ramiyan Gangatharan\Desktop\Published Software\Notepad.runtimeconfig.json
+C:\Users\Ramiyan Gangatharan\Desktop\Published Software\Notepad.pdb

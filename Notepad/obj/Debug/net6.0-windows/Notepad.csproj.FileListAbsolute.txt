@@ -1,0 +1,17 @@
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\bin\Debug\net6.0-windows\Notepad.exe
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\bin\Debug\net6.0-windows\Notepad.deps.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\bin\Debug\net6.0-windows\Notepad.runtimeconfig.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\bin\Debug\net6.0-windows\Notepad.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\bin\Debug\net6.0-windows\Notepad.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.Notepad.resources
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.GenerateResource.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfoInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfo.cs
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.CoreCompileInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\refint\Notepad.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.genruntimeconfig.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\ref\Notepad.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\Programming_Practice\Notepad\obj\Debug\net6.0-windows\Notepad.Properties.Resources.resources
